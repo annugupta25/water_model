@@ -1,0 +1,9 @@
+pandas 
+numpy
+scikit-learn--
+-Train Test Split
+-Random Forest Classifier
+classification report
+matplotlib
+seaborn 
+streamlit
